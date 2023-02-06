@@ -1,0 +1,15 @@
+base_color = '#221f23'
+input_fill_color = "#1d1c23"
+input_outline_color = "#676467"
+button_fill_color = "#236bfe"
+button_outline_color = ""
+msg_time_color = '#74808a'
+name_color = '#dedede'
+search_field_bgcolor="#202d34"
+# msg_time_color = '#606b72'
+bnb_color = '#050e12'
+chat_screen_base_color = '#0a171e'
+nbi_select_color = '#0070da'
+message_color = "#bcfeff"
+last_seen_color = "#51a344"
+received_msg_bgcolor = '#3d4648'
